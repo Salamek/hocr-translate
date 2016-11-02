@@ -1,7 +1,7 @@
 # hocr-translate
 
 hocr-translate is simple tool written in Python used to translate hocr files to different languages using Google Translate API
-it can also generate translate pretty HTML page using Bootstrap template just set -o to file with .html extension
+it can also generate translated pretty HTML page using Bootstrap template just set -o to file with .html extension
 
 ## Install
 
